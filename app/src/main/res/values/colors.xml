@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="white">#ffffff</color>
+    <color name="transparent">#00000000</color>
+    <color name="gradStart">#19aabb</color>
+    <color name="gradStop">#23a7db</color>
+
+    <color name="accent">#0d5d98</color>
+    <color name="address">#2f7092</color>
+    <color name="followers">#0d5d98</color>
+    <color name="headings">#3797cf</color>
+    <color name="solidCircle">#80ffffff</color>
+    <color name="circleBorder">#50ffffff</color>
+    <color name="followersBg">#65dce5</color>
+    <color name="followingBg">#15adb3</color>
+    <color name="grey">#e5e5e5</color>
+    <color name="black">#000</color>
+    <color name="red">#EB1A2A</color>
+    <color name="green">#33C481</color>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="backshop">#fbcef1</color>
+    <color name="nom">#FF3700B3</color>
+    <color name="tsoleka">#d0e6fc</color>
+
+
+
+</resources>
